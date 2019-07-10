@@ -2,7 +2,7 @@
 
 **Unofficial public issue tracker for the TPP SystmOne GP System**  
 
-Please add issues here https://github.com/pacharanero/TPPSystmOne/issues
+Please add issues here https://github.com/open-source-health-issue-trackers/TPP-SystmOne-unofficial-issue-tracker/issues
 
 This repository exists purely to allow **public** reporting of issues with the TPP SystmOne clinical system, because there is currently no mechanism to do so. Issues logged within SystmOne's built in secret forum are not public. Since this product is funded 100% through taxpayer funding, it is important that there should be full and open scrutiny of its performance.
 
